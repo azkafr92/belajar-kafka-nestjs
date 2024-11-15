@@ -1,0 +1,12 @@
+{
+  "name": "belajar-kafka-dengan-nestjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "pnpm run --parallel start:dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
